@@ -2,3 +2,5 @@ google-adk
 google-generativeai
 python-dotenv
 mcp 
+bs4
+ipykernel
